@@ -1,5 +1,5 @@
 <h1 align="center"> 
-ColdWinterPS2_Model_Viewer (WIP)
+Cold Winter - 3D Model Viewer (WIP)
 </h1>
 <p align="center">
   <img src="./images/render_3d.png" alt="Sterling_Model">
