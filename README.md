@@ -6,7 +6,7 @@ Cold Winter - 3D Model Viewer (WIP)
 </p>
 
 <h4 align="center"> 
-Noesis plugin for visualizing models from Cold Winter (PS2)
+Noesis plugin for visualizing models from Cold Winter
 </h4>
 
 ## Description
